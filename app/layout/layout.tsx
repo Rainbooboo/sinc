@@ -1,6 +1,7 @@
 import { Metadata } from "next";
-import Home from "../components/home";
 import Header from "./header";
+import Hero from "../components/home";
+import About from "../components/about";
 export const metadata: Metadata = {
     title: "Sinc",
     description: "Sample",
@@ -10,7 +11,8 @@ export const metadata: Metadata = {
     return (
        <div>
          <Header/>
-         <Home/>
+         <Hero/>
+         <About/>
        </div>
     );
   }

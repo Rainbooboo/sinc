@@ -3,12 +3,13 @@
 @tailwind utilities;
 
 
-/* :root {
+ :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+  --main-color:  #F9F9F9 !important;
 }
-
+/*
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
@@ -26,9 +27,10 @@ body {
     text-wrap: balance;
   }
 } */
+.full-screen-minus-96 {
+  height: calc(100vh - 96px);
+}
 
-
-/* global.css or header.css or another CSS file */
 @font-face {
   font-family: 'Matter';
   src: url('/fonts/Matter-Regular.ttf') format('truetype');
@@ -54,4 +56,13 @@ body {
 
 body {
   font-family: 'Matter', sans-serif !important;
+}
+
+.btn-primary{
+  background: #20888F;
+  font-weight: 600;
+}
+.btn-secondary{
+  background: #303030;
+  font-weight: 600;
 }

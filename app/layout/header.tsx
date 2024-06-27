@@ -10,7 +10,7 @@ export default function Header() {
         <div className="flex items-center">
           <Image src="/image.png" alt="SINC PARTNERS Logo" width={114.94} height={64} />
         </div>
-        <nav className="space-x-4 flex items-center">
+        <nav className="ml-4 flex items-center">
           <Link href="/" legacyBehavior>
             <a className="mx-2 nav-link">About</a>
           </Link>
