@@ -1,3 +1,15 @@
 .main{
     background:  #F9F9F9;;
 }
+.g-2{
+    color: #4E4E4E
+}
+/* services */
+.text-4xll{
+    font-size: 56px;
+    color: #212121;
+}
+.py-main{
+    padding-top: 69px;
+    padding-bottom: 69px;
+}

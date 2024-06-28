@@ -14,6 +14,18 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      fontSize: {
+        '17px': '17px',
+        '20px': '20px',
+      },
+      margin: {
+        '71px': '71px',
+        '63px': '64px',
+      },
+      padding: {
+        '120px': '120px',
+        '63px': '64px',
+      },
       colors: {
         transparent: 'transparent',
         current: 'currentColor',
@@ -23,9 +35,18 @@ const config: Config = {
         // 'metal': '#565584',
         // 'tahiti': '#3ab7bf',
         // 'silver': '#ecebff',
-        // 'bubble-gum': '#ff77e9',
+        'g-color': '#212121',
         'grey-1': '#5B5454',
+        'dark-grey': '#303030'
       },
+      backgroundColor: {
+        "dark-grey": '#303030',
+        "lg-orange": '#F47733',
+        "light-pink": '#FF78BF',
+        "torq-blue": '#20888F',
+        "light-pink2": '#FF88C6',
+
+      }
     },
   },
   plugins: [

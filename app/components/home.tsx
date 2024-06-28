@@ -12,7 +12,7 @@ export default function Hero() {
       <div  data-hs-carousel='{ "loadingClasses": "opacity-0", "isAutoPlay": false, "speed": 15000 }' className="relative" >
         <div className="hs-carousel relative overflow-hidden w-full full-screen-minus-96 bg-white">
           <div className="hs-carousel-body absolute top-0 bottom-0 start-0 flex flex-nowrap transition-transform duration-700 opacity-0">
-            <div className="hs-carousel-slide bg-white ">
+            <div className="hs-carousel-slide bg-white drop-shadow-md">
                     <div className="full-screen-minus-96 flex">
                       <div className=" w-col-1 flex flex-col md:text-left px-30 pt-24">
                         <h1 className="tx-main ">SINC Partners is a service incubation company</h1>
