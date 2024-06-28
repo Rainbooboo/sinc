@@ -27,6 +27,7 @@ const config: Config = {
       },
       padding: {
         '120px': '120px',
+        '170px': '170px',
         '63px': '64px',
       },
       colors: {
@@ -57,6 +58,16 @@ const config: Config = {
       borderColor:{
         'b-1': '#A4A4A4',
         'b-11': '#212121'
+      },
+      height: {
+        '60px': '60px'
+      },
+      width: {
+        '118px': '118px',
+         '60px': '60px'
+      },
+      lineHeight: {
+        '67': '20px'
       }
     },
   },

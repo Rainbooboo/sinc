@@ -5,7 +5,7 @@ export default function Services() {
     return (
         <section className="py-main md:px-44 px-14 rounded-2xl">
       <div className="container mx-auto  text-center">
-        <h2 className="text-4xll g-color font-semibold mb-8">Network of builders helping <br /> startup scale</h2>
+        <h2 className="text-4xll g-color font-medium mb-8">Network of builders helping <br /> startup scale</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 text-left">
           <div className="bg-white rounded-lg shadow-sm p-6 ">
             <h3 className="text-2xl font-semibold mb-4">Work with Service Incubators to expedite your time-to-market</h3>

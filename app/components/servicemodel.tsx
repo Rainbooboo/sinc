@@ -5,7 +5,7 @@ export default function ServiceModel() {
         <section className="pb-12 pt-4 md:px-120px px-20">
         <div className="container mx-auto">
             <div className="text-center">
-                <h2 className="text-4xll g-color font-semibold mb-4">Our Service Incubation Model</h2>
+                <h2 className="text-4xll g-color font-medium mb-4">Our Service Incubation Model</h2>
                 <p className="g-2 mb-63px text-base">The Service Incubation model is an alternate funding model for startup that allows professionals to offer their services to <br /> startups in return for a minute equity (usually between 0.5% to 1.5%) in the startup. As a service incubator, you will see <br />your share grow as much as 1000% in 12 – 24 months as been first to invest.</p>
             </div>
             <h3 className="text-32 font-semibold mb-2 text-g-color">Hypothesis</h3>

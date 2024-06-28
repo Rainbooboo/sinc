@@ -3,7 +3,7 @@ export default function FocusArea() {
         <section className="pb-12 pt-4 md:px-120px px-20">
       <div className="container mx-auto">
         <div className="text-center">
-        <h2 className="text-4xll g-color font-semibold mb-4">Our Area of Focus</h2>
+        <h2 className="text-4xll g-color font-medium mb-4">Our Area of Focus</h2>
         <p className="g-2 mb-63px text-17px">
           In our quest to help make success available to everyone, we have initial strategic <br /> direction to focus on these five key areas at the lab
         </p>
