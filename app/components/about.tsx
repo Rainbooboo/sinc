@@ -1,5 +1,7 @@
 import '../assets/styles/about.css';
+import ConceptInnovations from './ConceptInnovations';
 import FocusArea from './focusarea';
+import ServiceModel from './servicemodel';
 import Services from './services';
 import Testimonial from './testimonial';
 
@@ -9,6 +11,8 @@ export default function About() {
            <Testimonial/>
            <Services/>
            <FocusArea/>
+           <ConceptInnovations/>
+           <ServiceModel/>
         </div>
     );
   }

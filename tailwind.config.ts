@@ -17,10 +17,13 @@ const config: Config = {
       fontSize: {
         '17px': '17px',
         '20px': '20px',
+        '22px': '22px',
+        '32': '32px'
       },
       margin: {
         '71px': '71px',
         '63px': '64px',
+        '46': '46px',
       },
       padding: {
         '120px': '120px',
@@ -37,7 +40,8 @@ const config: Config = {
         // 'silver': '#ecebff',
         'g-color': '#212121',
         'grey-1': '#5B5454',
-        'dark-grey': '#303030'
+        'dark-grey': '#303030',
+        'grey-2': '#4E4E4E'
       },
       backgroundColor: {
         "dark-grey": '#303030',
@@ -46,6 +50,13 @@ const config: Config = {
         "torq-blue": '#20888F',
         "light-pink2": '#FF88C6',
 
+      },
+      spacing: {
+        '18': '72px', // Add custom spacing value (18 * 4 = 72px)
+      },
+      borderColor:{
+        'b-1': '#A4A4A4',
+        'b-11': '#212121'
       }
     },
   },
