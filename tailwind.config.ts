@@ -18,7 +18,8 @@ const config: Config = {
         '17px': '17px',
         '20px': '20px',
         '22px': '22px',
-        '32': '32px'
+        '32': '32px',
+        '13': '13px'
       },
       margin: {
         '71px': '71px',
@@ -50,6 +51,7 @@ const config: Config = {
         "light-pink": '#FF78BF',
         "torq-blue": '#20888F',
         "light-pink2": '#FF88C6',
+        "b-black": '#101010',
 
       },
       spacing: {
@@ -57,7 +59,8 @@ const config: Config = {
       },
       borderColor:{
         'b-1': '#A4A4A4',
-        'b-11': '#212121'
+        'b-11': '#212121',
+        'b-111': '#cccccc'
       },
       height: {
         '60px': '60px'

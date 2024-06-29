@@ -7,6 +7,7 @@ import Services from './services';
 import Testimonial from './testimonial';
 import CoFounder from './co-founders';
 import Program from './program';
+import Investors from './investors';
 
 export default function About() {
     return (
@@ -19,6 +20,7 @@ export default function About() {
            <Portfolio/>
            <CoFounder/>
            <Program/>
+           <Investors/>
         </div>
     );
   }
