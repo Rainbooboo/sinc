@@ -62,12 +62,12 @@ export default function Header() {
         </div>
         </nav>
          <div className="absolute right-28">
-         <button className="ml-2 px-7 py-3 rounded-full  text-white btn-primary hover:bg-cyan-700">
-            SINC With Us
-          </button>
-          <button className="ml-2 px-7 py-3 rounded-full btn-secondary text-white hover:bg-gray-900">
-            Apply to SIP 1.0
-          </button>
+            <button className="ml-2 px-7 py-3 rounded-full  text-white btn-primary hover:bg-cyan-700">
+              SINC With Us
+            </button>
+            <button className="ml-2 px-7 py-3 rounded-full btn-secondary text-white hover:bg-gray-900">
+              Apply to SIP 1.0
+            </button>
          </div>
       </header>
     );

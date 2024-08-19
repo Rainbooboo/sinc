@@ -8,6 +8,9 @@ import Testimonial from './testimonial';
 import CoFounder from './co-founders';
 import Program from './program';
 import Investors from './investors';
+import Jobs from './jobs';
+import Blogs from './blog';
+import Feature from './featuredIn';
 
 export default function About() {
     return (
@@ -21,6 +24,9 @@ export default function About() {
            <CoFounder/>
            <Program/>
            <Investors/>
+           <Jobs/>
+           <Blogs/>
+           <Feature/>
         </div>
     );
   }

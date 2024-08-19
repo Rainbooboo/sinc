@@ -19,12 +19,16 @@ const config: Config = {
         '20px': '20px',
         '22px': '22px',
         '32': '32px',
-        '13': '13px'
+        '13': '13px',
+        'xxs': '10px',
+        '15': '15px',
+        '80': '80px'
       },
       margin: {
         '71px': '71px',
         '63px': '64px',
         '46': '46px',
+        '78': '78px',
       },
       padding: {
         '120px': '120px',
@@ -43,8 +47,9 @@ const config: Config = {
         'g-color': '#212121',
         'grey-1': '#5B5454',
         'dark-grey': '#303030',
-        'grey-2': '#4E4E4E'
-      },
+      'grey-2': '#4E4E4E',
+      'grey-22': '#8E8E8E'
+        },
       backgroundColor: {
         "dark-grey": '#303030',
         "lg-orange": '#F47733',
@@ -63,14 +68,18 @@ const config: Config = {
         'b-111': '#cccccc'
       },
       height: {
-        '60px': '60px'
+        '60px': '60px',
+        '356px': '356px'
       },
       width: {
         '118px': '118px',
-         '60px': '60px'
+         '60px': '60px',
+         '879px': '879px'
+         
       },
       lineHeight: {
-        '67': '20px'
+        '67': '20px',
+        '104': '104px'
       }
     },
   },

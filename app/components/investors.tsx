@@ -1,7 +1,7 @@
 
 export default function Investors() {
     return (
-        <section className="pb-12 pt-9  md:px-120px px-20">
+        <section className="pb-8 pt-9  md:px-120px px-20">
             <div className="container mx-auto text-center">
                 <h2 className="text-4xll g-color font-medium mb-4">SINC Investors Network</h2>
                 <p className="g-2 mb-3 text-17px">Our deals are structured not just to take in investments but to onboard owners passionate about our solutions. Our <br /> portfolio companies are valued at $50k at start, with these low valuation, you are guaranteed at least 2x-5x, usually been <br /> the first to invest.</p>
@@ -125,8 +125,7 @@ export default function Investors() {
                         </div>
                     </div>
                 </div>
-                </div>
-`
+            </div>
             
         </section>
     );

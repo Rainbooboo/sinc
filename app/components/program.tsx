@@ -19,7 +19,7 @@ export default function Program() {
                         <div className="w-60px h-60px rounded-full bg-grey-2 flex justify-center items-center p-3"><img src="/img/together.png" alt="SINC Partners" className="w-full h-full object-cover shadow-lg"/></div>
                     </div>
                     <p className="font-medium text-g-color text-xl mb-3">Alignment Meeting and Proposal Submission</p>
-                    <p className="text-grey-2 text-base">If your application stands out, we'll invite you to an alignment meeting. This is an opportunity to discuss the goals of our EIR program and explore how your expertise aligns with the needs of our portfolio companies.
+                    <p className="text-grey-2 text-base">If your application stands out, we&apos;ll invite you to an alignment meeting. This is an opportunity to discuss the goals of our EIR program and explore how your expertise aligns with the needs of our portfolio companies.
                     Following the alignment meeting, submit a formal proposal outlining your intended contributions and how you envision adding significant value to our portfolio companies.</p>
                 </div>
                 <div className="flex-1 max-w-sm bg-white text-black rounded-xl p-5 shadow-sm">
@@ -27,8 +27,8 @@ export default function Program() {
                         <div className="w-60px h-60px rounded-full bg-grey-2 flex justify-center items-center p-3"><img src="/img/write.png" alt="SINC Partners" className="w-full h-full object-cover shadow-lg"/></div>
                     </div>
                     <p className="font-medium text-g-color text-xl mb-3">Negotiation and Agreement</p>
-                    <p className="text-grey-2 text-17px">Upon successful alignment and proposal review, we'll engage in discussions to finalize the terms of your EIR role. This includes the duration, expectations, and any compensation or equity arrangements.
-                    Once terms are agreed upon, we'll draft a formal agreement outlining the specifics of your EIR engagement, including reporting structures, responsibilities, and the support/resources provided by SINC Partners.</p>
+                    <p className="text-grey-2 text-17px">Upon successful alignment and proposal review, we&apos;ll engage in discussions to finalize the terms of your EIR role. This includes the duration, expectations, and any compensation or equity arrangements.
+                    Once terms are agreed upon, we&apos;ll draft a formal agreement outlining the specifics of your EIR engagement, including reporting structures, responsibilities, and the support/resources provided by SINC Partners.</p>
                 </div>
             </div>
             <div className="text-center mt-46">
