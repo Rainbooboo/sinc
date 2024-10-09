@@ -21,119 +21,119 @@ export default function Portfolio() {
         },
         {
           name: 'Stu wok',
-          imageUrl: '/stu_wok.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'REENTTY',
-          imageUrl: '/reentty.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'MUSE GARAGE',
-          imageUrl: '/muse_garage.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'Menzor Creative',
-          imageUrl: '/menzor_creative.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'RAKAYAR.',
-          imageUrl: '/rakayar.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'Terfaid',
-          imageUrl: '/terfaid.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'Ullweb',
-          imageUrl: '/ullweb.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'Remanno',
-          imageUrl: '/remanno.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'sbo',
-          imageUrl: '/sbo.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'Trontlett',
-          imageUrl: '/trontlett.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'hostull',
-          imageUrl: '/hostull.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'Rekriut',
-          imageUrl: '/rekriut.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'MAYON IMAGES',
-          imageUrl: '/mayon_images.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'Bilaaw',
-          imageUrl: '/bilaaw.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'SERVICE STOCK MARKET',
-          imageUrl: '/service_stock_market.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'kureen HOMES',
-          imageUrl: '/kureen_homes.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'TriftPay',
-          imageUrl: '/triftpay.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'skimake',
-          imageUrl: '/skimake.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'Krowdback',
-          imageUrl: '/krowdback.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'Simpext',
-          imageUrl: '/simpext.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'Qeeki',
-          imageUrl: '/qeeki.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'frendal',
-          imageUrl: '/frendal.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'Knowtixed',
-          imageUrl: '/knowtixed.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'Kreeca market',
-          imageUrl: '/kreeca_market.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'wanodu',
-          imageUrl: '/wanodu.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'WETTAA LOGISTICS',
-          imageUrl: '/wettaa_logistics.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'ZIBUR',
-          imageUrl: '/zibur.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'ZIMR MOBILE',
-          imageUrl: '/zimr_mobile.png',
+          imageUrl: '/img/kofoundme.png',
         },
         {
           name: 'Bilogos',
-          imageUrl: '/bilogos.png',
+          imageUrl: '/img/kofoundme.png',
         },
       ]);
     
